@@ -262,6 +262,20 @@ body {
   }
 }
 
+@media screen and (max-width: 460px) {
+  .content-rigth {
+    width: 100%;
+  }
+
+  .content-check1 p {
+    padding-left: 0px;
+  }
+
+  .button-back {
+    padding-left: 0px;
+  }
+}
+
 h1 {
   text-align: center;
   text-transform: uppercase;
