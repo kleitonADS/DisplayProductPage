@@ -102,6 +102,7 @@ body {
 
 .button-back a img {
   padding-right: 6px;
+  height: 60px;
 }
 .button-back button {
   background-color: transparent;
