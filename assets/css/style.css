@@ -10,10 +10,10 @@
   /* overflow: hidden;  */
 }
 
-body ,html {
+body {
   width: 100vw;
-  height: 100vh;
-  /* display: flex; */
+  height: 100%;
+  display: flex;
   font-family: "Quicksand", sans-serif;
 
   background-image: linear-gradient(
